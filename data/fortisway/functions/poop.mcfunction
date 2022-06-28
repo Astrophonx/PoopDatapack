@@ -1,0 +1,2 @@
+setblock ~0 ~0 ~1 minecraft:player_head[rotation=0]{SkullOwner:{Id:[I;-1776839031,1068646723,-1101993212,-1711182904],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWIzYjFmNzg1ZjAxNzUzYzQ1ZWY5N2ZjZmZmZmIzZjUyNjU4ZmZjZWIxN2FkM2Y3YjU5Mjk0NWM2ZGYyZmEifX19"}]}}} replace
+playsound entity.bee.hurt hostile @a ~ ~ ~ 1 1
